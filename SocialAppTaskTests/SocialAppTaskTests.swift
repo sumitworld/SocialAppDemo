@@ -1,10 +1,3 @@
-//
-//  SocialAppTaskTests.swift
-//  SocialAppTaskTests
-//
-//  Created by Techseria on 11/05/22.
-//
-
 import XCTest
 @testable import SocialAppTask
 

@@ -1,10 +1,3 @@
-//
-//  SearchViewController.swift
-//  SocialAppTask
-//
-//  Created by Techseria on 12/05/22.
-//
-
 import UIKit
 
 class SearchViewController: UIViewController {

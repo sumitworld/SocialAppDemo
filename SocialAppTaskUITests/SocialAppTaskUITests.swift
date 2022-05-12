@@ -1,10 +1,3 @@
-//
-//  SocialAppTaskUITests.swift
-//  SocialAppTaskUITests
-//
-//  Created by Techseria on 11/05/22.
-//
-
 import XCTest
 
 class SocialAppTaskUITests: XCTestCase {

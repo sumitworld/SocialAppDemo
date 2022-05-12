@@ -1,10 +1,3 @@
-//
-//  UIViewExtension.swift
-//  SocialAppTask
-//
-//  Created by Techseria on 12/05/22.
-//
-
 import Foundation
 import UIKit
 

@@ -1,10 +1,3 @@
-//
-//  SearchTableViewCell.swift
-//  SocialAppTask
-//
-//  Created by Techseria on 12/05/22.
-//
-
 import UIKit
 
 class SearchTableViewCell: UITableViewCell {
